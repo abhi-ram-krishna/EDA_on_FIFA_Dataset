@@ -22,7 +22,7 @@ link to dataset : https://drive.google.com/file/d/10oyIT1KPdwUqeU9-2LX0xE5-ZytNn
 
 
 
-## **Project Work flow**
+## Project Work flow
 
 1. Importing Libraries
 
